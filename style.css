@@ -8,13 +8,12 @@ body {
     font-size: 16px;
 font-family: 'Lexend Deca';
 background-color: hsl(0, 100%, 74%);
-background-image: url(/img/bg-intro-desktop.png);
 }
 
 @media screen and (max-width: 375px) {
 
     
-    body {
+    .container {
     background-image: url(/img/bg-intro-mobile.png);
     }
 
@@ -22,6 +21,7 @@ background-image: url(/img/bg-intro-desktop.png);
 }
 
 .container {
+    background-image: url(/img/bg-intro-desktop.png);
     padding: 44px;
 }
 
