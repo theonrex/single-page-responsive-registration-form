@@ -14,14 +14,14 @@ background-color: hsl(0, 100%, 74%);
 
     
     .container {
-    background-image: url(/img/bg-intro-mobile.png);
+    background-image: url(bg-intro-desktop.png);
     }
 
    
 }
 
 .container {
-    background-image: url(/img/bg-intro-desktop.png);
+    background-image: url(bg-intro-mobile.png);
     padding: 44px;
 }
 
